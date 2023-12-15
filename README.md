@@ -12,6 +12,10 @@ El desafío es construir este componente de código QR y lograr que se parezca l
 
 ![Captura de pantalla de mi solución](./images/miSolucion.png)
 
+### Previsualización
+
+https://jragx.github.io/qr-code-component/
+
 ### Construido con
 
 -   HTML5
